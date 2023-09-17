@@ -1,0 +1,10 @@
+H1{
+    text-align: center;
+}
+
+#img{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 500px;
+}
